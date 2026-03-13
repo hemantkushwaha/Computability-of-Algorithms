@@ -4,6 +4,11 @@ Author: Hemant Kushwaha
 Assistant Professor, Department of Computer Science & Engineering  
 Haridwar University, Roorkee, India
 
+## DOI
+This work is archived on Zenodo and assigned a DOI:
+
+https://doi.org/10.5281/zenodo.18995206
+
 ## Overview
 This repository contains academic notes explaining the concept of computability in theoretical computer science.
 
